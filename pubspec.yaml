@@ -1,7 +1,7 @@
 name: flutter_pip
 description: A new flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/raymondyuanda/Flutter-PIP-Plugin
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
